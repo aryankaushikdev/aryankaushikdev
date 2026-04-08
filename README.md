@@ -1,5 +1,3 @@
-# Hi I'm Aryan 👋
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header&text=Aryan%20Kaushik&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20London&descAlignY=62&descColor=a78bfa" width="100%"/>
