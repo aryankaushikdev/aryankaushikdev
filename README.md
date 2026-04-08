@@ -18,16 +18,6 @@ M.Tech Software Engineering · BITS Pilani · Founder @ [Techacks](https://techa
 focus = ["AI Agents", "Azure + AWS", "MCP Servers", "Government AI"]
 ```
 
----
-
-**Notable Builds**
-
-| Project | What |
-|---|---|
-
-| 🧠 **Threshold** | Neural stability simulator · Hackathon · London |
-
----
 
 <div align="center">
 
