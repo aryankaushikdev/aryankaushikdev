@@ -1,40 +1,39 @@
 # Hi I'm Aryan 👋
 
-![1](https://github.com/aryankaushik-git/aryankaushik-git/blob/main/Assets/Cover.png)
+<div align="center">
 
-### :dizzy: Connect on Networks
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header&text=Aryan%20Kaushik&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20London&descAlignY=62&descColor=a78bfa" width="100%"/>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aryank21/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
-  </a>&ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryankaushik219)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/aryankaushik219)
+[![Techacks](https://img.shields.io/badge/Techacks-7C3AED?style=flat-square)](https://www.linkedin.com/company/31358966)
+[![Dev.to](https://img.shields.io/badge/Blogs-f7d267?style=flat-square)]((https://dev.to/aryank21))
 
-  <a href="https://twitter.com/aryankaushik21/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
-  </a>&ensp;
-  
-  <a href="https://dev.to/aryank21">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" target="_blank"/>
-  </a>&ensp;
-   
 
 </div>
 
+---
 
+M.Tech Software Engineering · BITS Pilani · Founder @ [Techacks](https://techacks.org)
 
+```python
+focus = ["AI Agents", "Azure + AWS", "MCP Servers", "Government AI"]
+```
 
+---
 
-<!--
-**aryankaushik-git/aryankaushik-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Notable Builds**
 
-Here are some ideas to get you started:
+| Project | What |
+|---|---|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 🧠 **Threshold** | Neural stability simulator · Hackathon · London |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
+
